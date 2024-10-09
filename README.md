@@ -49,3 +49,13 @@ Deploy pre-trained or fine-tuned models using Hugging Face or AWS, accessible vi
 1. **Functional Web App**: A fully functional web app integrating multimodal AI capabilities for translation, image generation, and creative text generation.
 2. **Scalable Deployment**: Deployment using Hugging Face Spaces or AWS to ensure the application can handle various workloads efficiently.
 3. **Comprehensive Documentation**: Documentation including deployment instructions, usage guides, and troubleshooting tips to assist users and developers.
+
+Samples:
+
+![image](https://github.com/user-attachments/assets/8a85026d-3471-4d3d-891a-bad5b00c5461)
+
+
+
+![image](https://github.com/user-attachments/assets/8e65eefd-3a26-44ce-9080-ee0462194e59)
+
+
