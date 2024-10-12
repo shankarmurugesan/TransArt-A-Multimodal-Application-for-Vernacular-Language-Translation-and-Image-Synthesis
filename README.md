@@ -52,10 +52,12 @@ Deploy pre-trained or fine-tuned models using Hugging Face or AWS, accessible vi
 
 Samples:
 
-![image](https://github.com/user-attachments/assets/8a85026d-3471-4d3d-891a-bad5b00c5461)
+![image](https://github.com/user-attachments/assets/b18449f3-fdb4-4395-bfd2-31350db06932)
 
 
 
-![image](https://github.com/user-attachments/assets/8e65eefd-3a26-44ce-9080-ee0462194e59)
+
+![image](https://github.com/user-attachments/assets/22c62c2d-ecb8-4355-a259-91e2aac2cd79)
+
 
 
